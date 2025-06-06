@@ -1,1 +1,1 @@
-## A Project with QT and JS for Othello Game
+## A Project with QT for Othello Game
